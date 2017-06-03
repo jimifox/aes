@@ -1,1 +1,11 @@
-# aes
+# aes / CBC Mode
+
+
+Input Plain Text:
+HELLO THIS IS A SIDE CHANNEL ATTACK PLAIN TEXT MESSAGE! IT IS STRICTLY FORBIDDEN TO CHANGE THE MESSAGE!
+
+Key PlainText:
+SDHD
+
+Initial Vector with key:
+1d 71 a2 5d 87 15 6c f1 a3 9b 9d b4 21 35 8f fd
